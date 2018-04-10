@@ -1,5 +1,6 @@
 # weibo_users
 Scrapy爬取新浪微博用户
+
 将整个程序拷贝后只需运行main.py就可启动
 
 通过分析[https://m.weibo.cn/](https://m.weibo.cn/)请求编写用户爬虫
